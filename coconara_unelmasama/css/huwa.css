@@ -11,9 +11,10 @@
 動かしたい動き（今回は” ふわっ” を採用）
 ===================================*/
 
-.fadeUp {
+.box-huwa {
 animation-name:fadeUpAnime;
-animation-duration:0.5s;
+animation-delay:1.8s;
+animation-duration:1.0s;
 animation-fill-mode:forwards;
 opacity: 0;
 
